@@ -45,3 +45,13 @@ a:visited {
   font-weight: bold;
   color: white;
 }
+
+#copy {
+  font-size: 11px;
+}
+
+#footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
