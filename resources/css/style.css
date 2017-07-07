@@ -24,3 +24,17 @@ a:link {
 a:visited {
   color: white;
 }
+
+#main {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#sub1 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#sub2 {
+  font-size: 14px;
+}
